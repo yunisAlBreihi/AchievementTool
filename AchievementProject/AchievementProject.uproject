@@ -7,10 +7,7 @@
 		{
 			"Name": "AchievementProject",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Blutility"
-			]
+			"LoadingPhase": "Default"
 		}
 	]
 }
